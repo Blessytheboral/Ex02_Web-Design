@@ -19,9 +19,37 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+~~~
+<!DOCTYPE html>
+<html>
+<title>sample webpage</title>
+<head>     <h1 align="center"> Saveetha Engineering Collage</h1>
+</head>
+<body bgcolor=aqua>
+    <p style="text-align:centre"></p>
+    <hr text-decoration-line:underline;
+    text-decoration-thickness:3px>
+    <ol style=list-style-type:upper-alpha>
+        <li>Agricultural Engineering</li>
+        <li>Computer Science & Engineering</li>
+        <li>Information Technology</li>
+        <li>Data Science</li>
+        <ul style=list-style-type:disc>
+            <li>Artificial Intelligence - Machine Learning</li>
+            <li>Artificial Intelligence - Data Science</li>
+            <li>Internet Of Things</li>
+            </ul>
+            <li>Electronics & Communication Engineering</li>
+            <li>Electrical & Electronics Engineering</li>
+            <li>Mechanical Engineering</li>
+</body>
+</html>
+~~~
+    
 
 
 ## OUTPUT
+![Screenshot (26)](https://user-images.githubusercontent.com/127816463/229172829-e20c1ab2-a38f-4dbc-bcb9-c9fa04f8bd49.png)
 
 
 ## RESULT
